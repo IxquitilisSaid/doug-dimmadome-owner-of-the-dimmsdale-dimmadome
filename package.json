@@ -1,0 +1,19 @@
+{
+  "name": "doug-dimmadome-owner-of-the-dimmsdale-dimmadome",
+  "version": "1.0.0",
+  "description": "npm meme test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IxquitilisSaid/doug-dimmadome-owner-of-the-dimmsdale-dimmadome.git"
+  },
+  "author": "Jaime Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IxquitilisSaid/doug-dimmadome-owner-of-the-dimmsdale-dimmadome/issues"
+  },
+  "homepage": "https://github.com/IxquitilisSaid/doug-dimmadome-owner-of-the-dimmsdale-dimmadome#readme"
+}
